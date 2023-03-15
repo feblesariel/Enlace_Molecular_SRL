@@ -2,6 +2,8 @@
 
 Aplicacion realizada para Enlace Molecular SRL<br>
 
+"Armar una pagina con un textarea donde se pueda escribir texto libre y un botón que al presionarlo devuelva una lista de las palabras escritas y la cantidad de apariciones"
+
 Se usaron las siguientes tecnologias y librerias:
 
 Node JS<br><br>
